@@ -1,0 +1,6 @@
+{
+  "name": "Karni Property - Property Dealer in Jodhpur",
+  "description": "Premium real estate portal for residential, commercial, and rental properties in Jodhpur with property search, tour scheduling, and rent agreement services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
